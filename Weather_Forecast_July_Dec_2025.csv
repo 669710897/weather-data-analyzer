@@ -1,0 +1,185 @@
+Date,Day,Temperature (°C),Weather Condition,Humidity (%),Wind Speed (km/h),Rain Chance (%),Remarks
+2025-07-01,Tuesday,27/34,Windy,57,16,67,Secure loose items
+2025-07-02,Wednesday,22/37,Thunderstorm,52,5,44,Stay indoors
+2025-07-03,Thursday,26/35,Rainy,72,14,24,Carry umbrella
+2025-07-04,Friday,22/33,Thunderstorm,47,5,14,Stay indoors
+2025-07-05,Saturday,20/31,Thunderstorm,46,19,19,Stay indoors
+2025-07-06,Sunday,29/36,Cloudy,58,10,90,Mild weather
+2025-07-07,Monday,27/35,Rainy,47,21,4,Carry umbrella
+2025-07-08,Tuesday,26/34,Cloudy,81,15,9,Mild weather
+2025-07-09,Wednesday,23/34,Sunny,75,9,2,Good for outdoor activity
+2025-07-10,Thursday,28/31,Thunderstorm,60,6,88,Stay indoors
+2025-07-11,Friday,23/35,Sunny,89,12,1,Good for outdoor activity
+2025-07-12,Saturday,27/32,Windy,98,15,53,Secure loose items
+2025-07-13,Sunday,23/38,Thunderstorm,51,15,24,Stay indoors
+2025-07-14,Monday,20/34,Windy,76,20,14,Secure loose items
+2025-07-15,Tuesday,29/32,Windy,72,13,80,Secure loose items
+2025-07-16,Wednesday,21/39,Rainy,95,19,7,Carry umbrella
+2025-07-17,Thursday,26/33,Rainy,88,6,44,Carry umbrella
+2025-07-18,Friday,29/39,Cloudy,65,12,98,Mild weather
+2025-07-19,Saturday,29/35,Thunderstorm,70,9,88,Stay indoors
+2025-07-20,Sunday,27/31,Thunderstorm,62,7,5,Stay indoors
+2025-07-21,Monday,29/39,Windy,77,7,33,Secure loose items
+2025-07-22,Tuesday,25/38,Sunny,81,13,83,Good for outdoor activity
+2025-07-23,Wednesday,28/38,Windy,65,16,2,Secure loose items
+2025-07-24,Thursday,26/38,Sunny,91,22,69,Good for outdoor activity
+2025-07-25,Friday,21/37,Sunny,56,17,5,Good for outdoor activity
+2025-07-26,Saturday,22/38,Thunderstorm,64,20,30,Stay indoors
+2025-07-27,Sunday,28/33,Sunny,95,12,65,Good for outdoor activity
+2025-07-28,Monday,28/32,Cloudy,85,21,90,Mild weather
+2025-07-29,Tuesday,25/30,Thunderstorm,57,21,9,Stay indoors
+2025-07-30,Wednesday,21/39,Rainy,71,21,85,Carry umbrella
+2025-07-31,Thursday,27/33,Rainy,90,17,23,Carry umbrella
+2025-08-01,Friday,28/38,Rainy,49,15,86,Carry umbrella
+2025-08-02,Saturday,29/32,Cloudy,70,24,16,Mild weather
+2025-08-03,Sunday,20/30,Windy,54,22,13,Secure loose items
+2025-08-04,Monday,29/30,Sunny,47,15,64,Good for outdoor activity
+2025-08-05,Tuesday,29/33,Windy,78,18,24,Secure loose items
+2025-08-06,Wednesday,21/30,Sunny,51,14,57,Good for outdoor activity
+2025-08-07,Thursday,24/30,Thunderstorm,75,19,12,Stay indoors
+2025-08-08,Friday,29/39,Rainy,82,21,44,Carry umbrella
+2025-08-09,Saturday,29/31,Windy,82,11,31,Secure loose items
+2025-08-10,Sunday,21/37,Cloudy,68,11,58,Mild weather
+2025-08-11,Monday,26/32,Rainy,84,16,10,Carry umbrella
+2025-08-12,Tuesday,28/34,Sunny,76,20,84,Good for outdoor activity
+2025-08-13,Wednesday,29/32,Rainy,43,7,77,Carry umbrella
+2025-08-14,Thursday,22/37,Thunderstorm,88,18,2,Stay indoors
+2025-08-15,Friday,28/38,Sunny,65,18,11,Good for outdoor activity
+2025-08-16,Saturday,20/35,Thunderstorm,67,24,22,Stay indoors
+2025-08-17,Sunday,22/31,Windy,59,20,10,Secure loose items
+2025-08-18,Monday,26/30,Sunny,86,15,42,Good for outdoor activity
+2025-08-19,Tuesday,20/33,Sunny,95,7,63,Good for outdoor activity
+2025-08-20,Wednesday,23/33,Thunderstorm,95,21,85,Stay indoors
+2025-08-21,Thursday,27/35,Thunderstorm,54,23,18,Stay indoors
+2025-08-22,Friday,20/38,Cloudy,62,12,4,Mild weather
+2025-08-23,Saturday,29/33,Thunderstorm,78,17,11,Stay indoors
+2025-08-24,Sunday,23/32,Cloudy,81,5,65,Mild weather
+2025-08-25,Monday,27/31,Windy,74,21,12,Secure loose items
+2025-08-26,Tuesday,28/34,Thunderstorm,53,18,40,Stay indoors
+2025-08-27,Wednesday,24/38,Sunny,90,8,84,Good for outdoor activity
+2025-08-28,Thursday,28/39,Sunny,49,9,28,Good for outdoor activity
+2025-08-29,Friday,20/32,Rainy,40,17,82,Carry umbrella
+2025-08-30,Saturday,28/33,Sunny,81,10,29,Good for outdoor activity
+2025-08-31,Sunday,21/34,Sunny,59,8,23,Good for outdoor activity
+2025-09-01,Monday,21/39,Thunderstorm,89,22,60,Stay indoors
+2025-09-02,Tuesday,20/32,Sunny,52,23,18,Good for outdoor activity
+2025-09-03,Wednesday,20/38,Thunderstorm,72,14,23,Stay indoors
+2025-09-04,Thursday,24/32,Windy,77,20,92,Secure loose items
+2025-09-05,Friday,27/33,Sunny,83,22,22,Good for outdoor activity
+2025-09-06,Saturday,26/35,Thunderstorm,40,10,32,Stay indoors
+2025-09-07,Sunday,27/30,Windy,57,5,9,Secure loose items
+2025-09-08,Monday,25/30,Cloudy,81,16,4,Mild weather
+2025-09-09,Tuesday,23/39,Rainy,40,14,43,Carry umbrella
+2025-09-10,Wednesday,21/38,Windy,80,8,73,Secure loose items
+2025-09-11,Thursday,26/38,Windy,60,11,62,Secure loose items
+2025-09-12,Friday,22/35,Sunny,82,17,33,Good for outdoor activity
+2025-09-13,Saturday,24/31,Rainy,43,20,96,Carry umbrella
+2025-09-14,Sunday,26/39,Sunny,99,20,67,Good for outdoor activity
+2025-09-15,Monday,25/39,Thunderstorm,45,19,71,Stay indoors
+2025-09-16,Tuesday,20/39,Sunny,87,16,69,Good for outdoor activity
+2025-09-17,Wednesday,22/35,Thunderstorm,81,8,11,Stay indoors
+2025-09-18,Thursday,21/32,Windy,60,20,89,Secure loose items
+2025-09-19,Friday,22/39,Rainy,98,20,80,Carry umbrella
+2025-09-20,Saturday,25/31,Thunderstorm,82,11,25,Stay indoors
+2025-09-21,Sunday,25/38,Windy,68,19,9,Secure loose items
+2025-09-22,Monday,29/31,Sunny,90,12,54,Good for outdoor activity
+2025-09-23,Tuesday,26/34,Thunderstorm,79,17,14,Stay indoors
+2025-09-24,Wednesday,29/34,Rainy,68,6,98,Carry umbrella
+2025-09-25,Thursday,21/38,Windy,77,20,13,Secure loose items
+2025-09-26,Friday,26/37,Windy,90,16,30,Secure loose items
+2025-09-27,Saturday,21/35,Cloudy,61,19,93,Mild weather
+2025-09-28,Sunday,24/37,Rainy,65,6,79,Carry umbrella
+2025-09-29,Monday,22/30,Thunderstorm,98,10,74,Stay indoors
+2025-09-30,Tuesday,24/31,Rainy,93,21,17,Carry umbrella
+2025-10-01,Wednesday,20/38,Rainy,85,16,12,Carry umbrella
+2025-10-02,Thursday,23/36,Cloudy,67,11,46,Mild weather
+2025-10-03,Friday,28/30,Thunderstorm,83,17,43,Stay indoors
+2025-10-04,Saturday,21/30,Sunny,62,23,36,Good for outdoor activity
+2025-10-05,Sunday,28/30,Cloudy,53,15,60,Mild weather
+2025-10-06,Monday,26/39,Cloudy,60,12,70,Mild weather
+2025-10-07,Tuesday,26/37,Rainy,92,16,27,Carry umbrella
+2025-10-08,Wednesday,27/39,Windy,90,24,52,Secure loose items
+2025-10-09,Thursday,22/36,Windy,48,7,66,Secure loose items
+2025-10-10,Friday,28/36,Rainy,64,10,18,Carry umbrella
+2025-10-11,Saturday,23/37,Rainy,84,6,21,Carry umbrella
+2025-10-12,Sunday,29/34,Rainy,65,9,84,Carry umbrella
+2025-10-13,Monday,22/37,Windy,65,14,97,Secure loose items
+2025-10-14,Tuesday,22/31,Rainy,60,18,17,Carry umbrella
+2025-10-15,Wednesday,20/32,Rainy,78,18,95,Carry umbrella
+2025-10-16,Thursday,23/31,Windy,42,14,36,Secure loose items
+2025-10-17,Friday,20/35,Rainy,68,13,95,Carry umbrella
+2025-10-18,Saturday,20/32,Rainy,89,19,64,Carry umbrella
+2025-10-19,Sunday,25/35,Sunny,70,11,96,Good for outdoor activity
+2025-10-20,Monday,29/35,Windy,43,13,45,Secure loose items
+2025-10-21,Tuesday,28/30,Windy,64,7,38,Secure loose items
+2025-10-22,Wednesday,24/37,Thunderstorm,43,10,51,Stay indoors
+2025-10-23,Thursday,29/35,Sunny,45,19,61,Good for outdoor activity
+2025-10-24,Friday,27/30,Sunny,77,14,76,Good for outdoor activity
+2025-10-25,Saturday,27/38,Windy,66,12,12,Secure loose items
+2025-10-26,Sunday,28/35,Windy,78,15,75,Secure loose items
+2025-10-27,Monday,27/39,Cloudy,72,19,59,Mild weather
+2025-10-28,Tuesday,20/37,Cloudy,50,19,37,Mild weather
+2025-10-29,Wednesday,22/34,Thunderstorm,80,5,8,Stay indoors
+2025-10-30,Thursday,20/37,Cloudy,50,5,15,Mild weather
+2025-10-31,Friday,26/35,Windy,85,19,39,Secure loose items
+2025-11-01,Saturday,25/32,Thunderstorm,78,24,68,Stay indoors
+2025-11-02,Sunday,29/31,Windy,43,11,7,Secure loose items
+2025-11-03,Monday,27/31,Sunny,63,18,83,Good for outdoor activity
+2025-11-04,Tuesday,21/39,Rainy,88,23,79,Carry umbrella
+2025-11-05,Wednesday,26/35,Sunny,57,10,68,Good for outdoor activity
+2025-11-06,Thursday,20/33,Windy,56,5,52,Secure loose items
+2025-11-07,Friday,23/37,Rainy,61,20,57,Carry umbrella
+2025-11-08,Saturday,20/35,Sunny,97,11,38,Good for outdoor activity
+2025-11-09,Sunday,29/35,Thunderstorm,97,23,26,Stay indoors
+2025-11-10,Monday,27/31,Sunny,97,16,61,Good for outdoor activity
+2025-11-11,Tuesday,26/39,Sunny,95,15,68,Good for outdoor activity
+2025-11-12,Wednesday,21/37,Sunny,53,9,85,Good for outdoor activity
+2025-11-13,Thursday,23/36,Cloudy,73,11,51,Mild weather
+2025-11-14,Friday,20/37,Thunderstorm,47,7,18,Stay indoors
+2025-11-15,Saturday,20/35,Cloudy,42,18,83,Mild weather
+2025-11-16,Sunday,29/34,Thunderstorm,79,18,58,Stay indoors
+2025-11-17,Monday,28/39,Cloudy,54,11,95,Mild weather
+2025-11-18,Tuesday,28/38,Sunny,65,8,73,Good for outdoor activity
+2025-11-19,Wednesday,21/38,Cloudy,89,9,4,Mild weather
+2025-11-20,Thursday,29/37,Windy,67,8,65,Secure loose items
+2025-11-21,Friday,26/31,Windy,80,11,59,Secure loose items
+2025-11-22,Saturday,24/33,Rainy,80,24,81,Carry umbrella
+2025-11-23,Sunday,22/31,Thunderstorm,60,19,13,Stay indoors
+2025-11-24,Monday,20/34,Thunderstorm,68,11,24,Stay indoors
+2025-11-25,Tuesday,29/35,Sunny,82,22,72,Good for outdoor activity
+2025-11-26,Wednesday,25/32,Thunderstorm,57,18,81,Stay indoors
+2025-11-27,Thursday,20/31,Rainy,47,24,33,Carry umbrella
+2025-11-28,Friday,23/35,Thunderstorm,66,7,63,Stay indoors
+2025-11-29,Saturday,20/39,Sunny,78,8,53,Good for outdoor activity
+2025-11-30,Sunday,25/37,Windy,79,11,61,Secure loose items
+2025-12-01,Monday,21/33,Cloudy,66,7,36,Mild weather
+2025-12-02,Tuesday,25/33,Sunny,64,17,34,Good for outdoor activity
+2025-12-03,Wednesday,26/37,Thunderstorm,56,15,49,Stay indoors
+2025-12-04,Thursday,29/30,Windy,96,24,67,Secure loose items
+2025-12-05,Friday,29/34,Cloudy,76,15,80,Mild weather
+2025-12-06,Saturday,20/32,Rainy,67,15,88,Carry umbrella
+2025-12-07,Sunday,26/30,Cloudy,95,17,72,Mild weather
+2025-12-08,Monday,29/30,Sunny,57,24,46,Good for outdoor activity
+2025-12-09,Tuesday,26/38,Thunderstorm,51,5,6,Stay indoors
+2025-12-10,Wednesday,20/30,Thunderstorm,90,9,97,Stay indoors
+2025-12-11,Thursday,27/35,Rainy,47,24,76,Carry umbrella
+2025-12-12,Friday,21/36,Rainy,70,21,89,Carry umbrella
+2025-12-13,Saturday,22/38,Sunny,40,21,90,Good for outdoor activity
+2025-12-14,Sunday,24/30,Rainy,77,11,18,Carry umbrella
+2025-12-15,Monday,29/36,Rainy,78,10,68,Carry umbrella
+2025-12-16,Tuesday,23/31,Windy,64,10,54,Secure loose items
+2025-12-17,Wednesday,23/36,Cloudy,40,24,59,Mild weather
+2025-12-18,Thursday,23/33,Thunderstorm,58,5,29,Stay indoors
+2025-12-19,Friday,27/34,Sunny,76,11,38,Good for outdoor activity
+2025-12-20,Saturday,22/36,Rainy,49,13,85,Carry umbrella
+2025-12-21,Sunday,20/33,Windy,81,10,71,Secure loose items
+2025-12-22,Monday,25/38,Sunny,42,19,93,Good for outdoor activity
+2025-12-23,Tuesday,25/30,Rainy,59,24,62,Carry umbrella
+2025-12-24,Wednesday,27/38,Cloudy,80,16,23,Mild weather
+2025-12-25,Thursday,20/35,Thunderstorm,82,23,76,Stay indoors
+2025-12-26,Friday,21/36,Sunny,42,7,52,Good for outdoor activity
+2025-12-27,Saturday,29/38,Sunny,61,12,1,Good for outdoor activity
+2025-12-28,Sunday,25/34,Windy,74,23,32,Secure loose items
+2025-12-29,Monday,28/34,Thunderstorm,61,10,0,Stay indoors
+2025-12-30,Tuesday,20/30,Rainy,69,23,83,Carry umbrella
+2025-12-31,Wednesday,28/32,Sunny,76,20,70,Good for outdoor activity
